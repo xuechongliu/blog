@@ -4,7 +4,13 @@ require 'sinatra/base'
 # The project root directory
 $root = ::File.dirname(__FILE__)
 
-class SinatraStaticServer < Sinatra::Base  
+class SinatraStaticServer < Sinatra::Base
+
+  before do
+    if request.host =~ /www\./
+      redirect "http://brianarmstrong.org#{request.path}", 301
+    end
+  end
 
   get(/.+/) do
     send_sinatra_file(request.path) {404}
