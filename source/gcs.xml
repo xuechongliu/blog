@@ -4,7 +4,7 @@
 
 <GoogleCustomizations>
   <CustomSearchEngine>
-    <Title><%= t('shared.Airbnb FAQs', :default => "Airbnb FAQs")%></Title>
+    <Title>Airbnb FAQs</Title>
     <Description></Description>
     <Context>
       <BackgroundLabels>
