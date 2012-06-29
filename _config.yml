@@ -16,8 +16,8 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: http://feeds.feedburner.com/brianarmstrong/vTOG
-subscribe_email: http://feedburner.google.com/fb/a/mailverify?uri=brianarmstrong/vTOG
+subscribe_rss: http://feeds.feedburner.com/brianarmstrong/h4fm
+subscribe_email: http://feedburner.google.com/fb/a/mailverify?uri=brianarmstrong/h4fm
 # RSS feeds can list your email address if you like
 email:
 
