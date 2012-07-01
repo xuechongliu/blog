@@ -58,7 +58,7 @@ If you're spending 8 hours a day (1/3 of your life) doing something you don’t 
   * "How To Build A Business Website Using Wordpress" - A guide to creating a professional website for your business in just a few hours, even if you have little or no programming experience.
 
 
-<a href="http://s3.amazonaws.com/oldbloguploads//Breaking%20Free%20-%20Brian%20Armstrong.zip" class="btn btn-primary">Download The PDF</a>
+<a href="http://s3.amazonaws.com/oldbloguploads/Breaking%20Free%20-%20Brian%20Armstrong.zip" class="btn btn-primary">Download The PDF</a>
 <a href="http://www.amazon.com/gp/product/1430307870?ie=UTF8&tag=httpwwwstartb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1430307870" class="btn btn-primary">Order The Paperback From Amazon</a>
 
 ## One of the best parts was the emails people would send me after reading it...
@@ -201,5 +201,5 @@ Aaron Valdez
 </pre>
 
 
-<a href="http://s3.amazonaws.com/oldbloguploads//Breaking%20Free%20-%20Brian%20Armstrong.zip" class="btn btn-primary">Download The PDF</a>
+<a href="http://s3.amazonaws.com/oldbloguploads/Breaking%20Free%20-%20Brian%20Armstrong.zip" class="btn btn-primary">Download The PDF</a>
 <a href="http://www.amazon.com/gp/product/1430307870?ie=UTF8&tag=httpwwwstartb-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1430307870" class="btn btn-primary">Order The Paperback From Amazon</a>
