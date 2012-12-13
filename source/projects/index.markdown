@@ -13,6 +13,23 @@ sidebar: false
 <ul class="thumbnails">
   <li class="span4">
     <div class="thumbnail">
+      <a href="https://coinbase.com/" target="_blank"><img src="/images/projects/coinbase.png" alt="Coinbase"/></a>
+      <div class="caption">
+        <span class="label label-info pull-right">Founder</span>
+        <h4>Coinbase.com</h4>
+        <p>A electronic wallet for the digital currency bitcoin.  Went through Y Combinator's Summer '12 batch and raised a 600k seed round.</p>
+      </div>
+    </div>
+  </li>
+</ul>
+
+<div class="page-header">
+  <h2>Past Projects</h2>
+</div>
+
+<ul class="thumbnails">
+  <li class="span4">
+    <div class="thumbnail">
       <a href="http://www.airbnb.com/" target="_blank"><img src="/images/projects/airbnb.png" alt="Airbnb"/></a>
       <div class="caption">
         <span class="label label-info pull-right">Employee</span>
@@ -42,11 +59,6 @@ sidebar: false
     </div>
   </li>
 </ul>
-
-
-<div class="page-header">
-  <h2>Past Projects</h2>
-</div>
 
 <ul class="thumbnails">
   <li class="span4">

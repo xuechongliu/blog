@@ -21,3 +21,8 @@ var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') retu
 try { z7x4a9 = new WufooForm();z7x4a9.initialize(options);z7x4a9.display(); } catch (e) {}}
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
 })(document, 'script');</script>
+
+
+
+Here is a sample payment button:
+<div class="coinbase-button" data-code="2cd5aec776f0ba981494920750be7a27"></div><script src="https://coinbase.com/assets/button.js" type="text/javascript"></script>
