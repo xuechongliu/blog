@@ -24,5 +24,5 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 
 
 
-Here is a sample payment button:
+You can create payment buttons like this at <a href="https://coinbase.com">Coinbase.com</a>:<br>
 <div class="coinbase-button" data-code="2cd5aec776f0ba981494920750be7a27"></div><script src="https://coinbase.com/assets/button.js" type="text/javascript"></script>

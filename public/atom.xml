@@ -4,7 +4,7 @@
   <title><![CDATA[Brian Armstrong]]></title>
   <link href="http://brianarmstrong.org/atom.xml" rel="self"/>
   <link href="http://brianarmstrong.org/"/>
-  <updated>2013-01-01T19:01:15-08:00</updated>
+  <updated>2013-01-01T19:13:58-08:00</updated>
   <id>http://brianarmstrong.org/</id>
   <author>
     <name><![CDATA[Brian Armstrong]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Where to read my latest updates...]]></title>
+    <link href="http://brianarmstrong.org/blog/where-to-read-my-latest-updates-dot-dot-dot/"/>
+    <updated>2013-01-01T19:04:00-08:00</updated>
+    <id>http://brianarmstrong.org/blog/where-to-read-my-latest-updates-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>As you might have seen, I&#8217;ve started a new company in 2012: <a href="https://coinbase.com">Coinbase</a></p>
+
+<p>Coinbase is an electronic wallet for the digital currency <a href="http://en.wikipedia.org/wiki/Bitcoin">bitcoin</a>, which I believe is one of the most exciting new technologies on the horizon.  During the summer of 2012 I got accepted to Y Combinator (a startup incubator here in Silicon Valley), left my job at Airbnb (which is an amazing company btw, they were very supportive), and started working on Coinbase full time.</p>
+
+<p>So far it&#8217;s been really exciting.  We raised a $600k seed round, closed a deal with a major U.S. bank, and have been growing transaction volume about 15% per week.  There are all sorts of new things I&#8217;m learning as a CEO (slash software engineer).</p>
+
+<p>So what does this mean for this blog?  It means that I will be doing more writing in the future at <a href="http://blog.coinbase.com">http://blog.coinabse.com</a> - so you should subscribe there if you&#8217;d like to keep getting updates.</p>
+
+<p>Thank you for a wonderful 2012 (it has definitely been the most exciting year in my life to date) and I&#8217;m looking forward to an even more exciting 2013!</p>
+
+<p>Brian Armstrong</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Announcing Ribbot.com - build your own Reddit/Hacker News style discussion forum]]></title>
@@ -911,95 +930,6 @@ Brian Armstrong</em></p>
 Brian Armstrong</p>
 
 <p><a href="http://s3.amazonaws.com/oldbloguploads/2010/09/coca-on-Fernando-Perdomo.jpg"><img src="http://s3.amazonaws.com/oldbloguploads/2010/09/coca-on-Fernando-Perdomo-500x334.jpg" alt="" /></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[UniversityTutor Races Past 200 Paying Customers]]></title>
-    <link href="http://brianarmstrong.org/blog/universitytutor-races-past-200-paying-customers/"/>
-    <updated>2010-09-07T06:50:20-07:00</updated>
-    <id>http://brianarmstrong.org/blog/universitytutor-races-past-200-paying-customers</id>
-    <content type="html"><![CDATA[<p>UniversityTutor.com hit a little milestone this past week: 200 paying tutors!</p>
-
-<p>At $10/month each this might not sound like a lot (and it really isn&#8217;t) but for me it was pretty cool because this was my original goal for myself way back <a href="http://brianarmstrong.org/posts/from-new-idea-to-business-launch-in-two-weeks-with-pictures/">when I first started the site</a>, more than 2 years ago.</p>
-
-<p>In fact, (this is really silly but) during that entire time I&#8217;ve had this little stickie note on my computer desktop with that goal written down:</p>
-
-<p><img src="http://s3.amazonaws.com/oldbloguploads/2010/09/Screen-shot-2010-09-06-at-10.50.47-PM.png" alt="" /></p>
-
-<p>When I started I thought it would take maybe 6 months tops to reach this.  Now it&#8217;s finally done - it only took about two years longer to accomplish than I thought it would! :)  (With some nice <a href="http://brianarmstrong.org/posts/universitytutor-revenues-fall-by-50/">setbacks</a> along the way.)</p>
-
-<p>My daily stats dashboard:</p>
-
-<p><a href="http://s3.amazonaws.com/oldbloguploads/2010/09/monthly_report.jpeg"><img src="http://s3.amazonaws.com/oldbloguploads/2010/09/monthly_report-500x375.jpg" alt="" /></a></p>
-
-<p>I took the occasion to implement a change I&#8217;ve been thinking about for a while on the site: making the free account unlimited.</p>
-
-<p>Below is a summary of the changes and some screenshots of the new signup process I recently deployed.</p>
-
-<p><strong>Old business model:</strong></p>
-
-<ol>
-<li><p>Tutor signs up</p></li>
-<li><p>First 3 times they are contacted on the site it is free</p></li>
-<li><p>After the third contact, I ask them to upgrade (conversion rate around 1.8%).  Those tutors who don&#8217;t upgrade can no longer use the site.</p></li>
-</ol>
-
-
-<p><strong>New business model:</strong></p>
-
-<ol>
-<li><p>Tutor signs up</p></li>
-<li><p>Right after filling out their profile they are asked to choose a free listing or featured listing</p></li>
-<li><p>Featured listing gives you top placement in search results, featured on the homepage, etc (conversion rate currently at 4%).</p></li>
-</ol>
-
-
-<p>Main difference is that now you can keep the free listing forever if you want (you never get kicked off).  Instead, the incentive to upgrade is getting more tutoring inquiries with a featured listing (show up on homepage, first in search results, badge on your profile, etc).</p>
-
-<p>Here are some screenshots of the new signup flow:</p>
-
-<p><a href="http://s3.amazonaws.com/oldbloguploads/2010/09/Screen-shot-2010-09-06-at-11.08.27-PM.png"><img src="http://s3.amazonaws.com/oldbloguploads/2010/09/Screen-shot-2010-09-06-at-11.08.27-PM-500x367.png" alt="" /></a></p>
-
-<p><a href="http://s3.amazonaws.com/oldbloguploads/2010/09/Screen-shot-2010-09-06-at-11.09.04-PM.png"><img src="http://s3.amazonaws.com/oldbloguploads/2010/09/Screen-shot-2010-09-06-at-11.09.04-PM-500x367.png" alt="" /></a></p>
-
-<p><a href="http://s3.amazonaws.com/oldbloguploads/2010/09/Screen-shot-2010-09-06-at-11.10.21-PM.png"><img src="http://s3.amazonaws.com/oldbloguploads/2010/09/Screen-shot-2010-09-06-at-11.10.21-PM-500x367.png" alt="" /></a></p>
-
-<p><a href="http://s3.amazonaws.com/oldbloguploads/2010/09/Screen-shot-2010-09-06-at-11.10.31-PM.png"><img src="http://s3.amazonaws.com/oldbloguploads/2010/09/Screen-shot-2010-09-06-at-11.10.31-PM-500x367.png" alt="" /></a></p>
-
-<p>You can see all the benefits listed on the final signup page.  This is the most important one.</p>
-
-<p>And here here are some examples of &#8220;featured&#8221; tutors:</p>
-
-<p><a href="http://s3.amazonaws.com/oldbloguploads/2010/09/featured1.png"><img src="http://s3.amazonaws.com/oldbloguploads/2010/09/featured1-500x367.png" alt="" /></a></p>
-
-<p><a href="http://s3.amazonaws.com/oldbloguploads/2010/09/featured2.png"><img src="http://s3.amazonaws.com/oldbloguploads/2010/09/featured2-500x367.png" alt="" /></a></p>
-
-<p><strong>Random thoughts on the change:</strong></p>
-
-<ul>
-<li><p>I was sort of worried about making the free listing unlimited because it creates less of an incentive for tutors to upgrade.  But so far this looks like it was nothing to worry about - conversion rate to paid is actually better (need more data to say for sure here).</p></li>
-<li><p>I think the new signup flow where it asks them to upgrade from the beginning (but doesn&#8217;t prevent them from doing it later) is mostly responsible for this.  Tutors no longer have to wait for their &#8220;free trial&#8221; to expire for me to ask them to upgrade.</p></li>
-<li><p>I changed the wording from a &#8220;Free Account&#8221; vs a &#8220;Pro Account&#8221;  to a &#8220;Free Listing&#8221; vs a &#8220;Featured Listing&#8221;.  This wording change seems to work better here since &#8220;pro&#8221; is an ambiguous term, but a &#8220;featured listing&#8221; makes it clear exactly what they are paying for.</p></li>
-<li><p>I also added language to the page saying &#8220;Featured listings receive 4x as many inquiries as free listings on average&#8221; which is true (I ran some numbers).</p></li>
-<li><p>In large part, this new signup flow is modeled after the <a href="http://www.Sortfolio.com">Sortfolio.com</a> signup flow which I really like.  So they deserve a shout out here.</p></li>
-</ul>
-
-
-<p>If you think about the freemium business model as a spectrum (crude diagram below), then this change is definitely a shift to the left (towards more free):</p>
-
-<p>[100% Free &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211; Freemium &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211; 100% Paid ]</p>
-
-<p>But it seems to have worked well here in earning more (ironically).  The tricky part about Freemium is where to draw the line between free and paid and the decision is different for every business.  I read a great piece of advice recently which said (I&#8217;m paraphrasing) &#8220;If your site benefits from network effects (basically that the value of the site grows with the number of users) then you should give more things away for free, and if it doesn&#8217;t benefit from network effects then you should make more things paid.&#8221;</p>
-
-<p>That advice was helpful to me in this case - a tutoring directory definitely seems like it has some network effects.  I didn&#8217;t want to be losing those ~98% of tutors from the site who tried it out but didn&#8217;t want to upgrade.  This allows me to capture both groups and build a bigger site.</p>
-
-<p>The site is growing even faster now that I made this change and it&#8217;s already over 220 paying tutors as I write this.  So this may turn out really well (too early to say for sure).  What are your predictions on this change?</p>
-
-<p>Until next time, keep breaking free!
-Brian Armstrong</p>
-
-<p>P.S. To read up on the whole UniversityTutor story, you can <a href="http://www.startbreakingfree.com/category/universitytutor-com/">view the category page here</a>.</p>
 ]]></content>
   </entry>
   
