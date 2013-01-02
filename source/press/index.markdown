@@ -6,7 +6,7 @@ sharing: true
 footer: true
 ---
 
-###[See The Latest Press On Coinbase](https://coinbase.com/press)
+###[See The Latest Press On Coinbase](https://coinbase.com/about)
 
 ###[Bitcoin Digital-Wallet App Hits Android Market](http://www.wired.com/gadgetlab/2011/07/bitcoin-android-app/)
 ###<small>Jul 7th, 2011 - Wired Gadget Lab</small>
