@@ -34,7 +34,7 @@ sidebar: false
       <div class="caption">
         <span class="label label-info pull-right">Employee</span>
         <h4>Airbnb.com</h4>
-        <p>Here I work on fraud prevention, the photography program, and internal tools to help scale the business.</p>
+        <p>Here I worked on fraud prevention, the photography program, and internal tools to help scale the business.</p>
       </div>
     </div>
   </li>
@@ -67,7 +67,7 @@ sidebar: false
       <div class="caption">
         <span class="label pull-right">Side Project</span>
         <h4>Bitcoin Android</h4>
-        <p>Send and receive bitcoins from your mobile phone.  This was my first experiment with Bitcoin and my first Android app.  It's no longer supported (there are better solutions available now).</p>
+        <p>Send and receive bitcoins from your mobile phone.  This was my first experiment with Bitcoin and my first Android app.  It's no longer supported as I've switched my focus over entirely to Coinbase.com.</p>
       </div>
     </div>
   </li>

@@ -5,7 +5,7 @@ footer: true
 ---
 
 
-<div class="thumbnail pull-right" style="width: 150px; height: 178px;"><img src="/images/brian_armstrong.png" alt="Brian Armstrong" width='150' height='178'></div>
+<div class="thumbnail pull-right" style="width: 150px; height: 178px;"><img src="/images/brian_armstrong.png" alt="Brian Armstrong" width='200' height='200'></div>
 
 ## Hi, I'm a software engineer and tech entrepreneur living in San Francisco, California.  This is my personal website and blog.
 
