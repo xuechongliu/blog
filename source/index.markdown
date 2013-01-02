@@ -21,4 +21,4 @@ I love <a href="/projects">building new things with technology</a> and working w
 
 Here are some (tiny) pages on [talks](/talks) and [press](/press).
 
-You can keep in touch by <a href="#" onclick="window.open('http://feedburner.google.com/fb/a/mailverify?uri=brianarmstrong/h4fm','FeedBurner','menubar=no,width=600,height=600,toolbar=no'); return false;">subscribing</a> to get updates from my blog.
+You can keep in touch by <a href="#" onclick="window.open('http://feedburner.google.com/fb/a/mailverify?uri=brianarmstrong/h4fm','FeedBurner','menubar=no,width=600,height=600,toolbar=no'); return false;">subscribing</a> to get updates from my blog or <a href="https://twitter.com/brian_armstrong">following me on twitter</a>.
