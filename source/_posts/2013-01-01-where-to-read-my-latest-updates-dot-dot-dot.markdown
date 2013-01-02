@@ -14,7 +14,7 @@ So far it's been really exciting.  We raised a $600k seed round, closed a deal w
 
 <strong>So what does this mean for this blog?</strong>
 
-It means that I will be doing more writing in the future at [http://blog.coinabse.com](http://blog.coinbase.com) - so you should subscribe there if you'd like to keep getting updates.
+It means that I will be doing most of my writing in the future at [http://blog.coinabse.com](http://blog.coinbase.com) - so you should subscribe there if you'd like to keep getting updates.
 
 Thank you for a wonderful 2012 (it has definitely been the most exciting year in my life to date) and I'm looking forward to an even more exciting 2013!
 
