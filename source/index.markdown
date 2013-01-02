@@ -19,6 +19,6 @@ footer: true
 
 I love <a href="/projects">building new things with technology</a> and working with startups.  My strength is in engineering web and mobile apps and bringing new product ideas to market.
 
-Here are some (tiny) pages on [talks](/talks) and [press](/press).  Hopefully those will grow over time!
+Here are some (tiny) pages on [talks](/talks) and [press](/press).
 
 You can keep in touch by <a href="#" onclick="window.open('http://feedburner.google.com/fb/a/mailverify?uri=brianarmstrong/h4fm','FeedBurner','menubar=no,width=600,height=600,toolbar=no'); return false;">subscribing</a> to get updates from my blog.
