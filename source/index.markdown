@@ -11,7 +11,7 @@ footer: true
 
 <br/>
 ### Me At A Glance:
-* Founder and CEO of <a href="https://coinbase.com" target="_blank">Coinbase.com</a>
+* Co-founder and CEO of <a href="https://coinbase.com" target="_blank">Coinbase.com</a>
 * Previously software engineer at <a href="http://www.airbnb.com" target="_blank">Airbnb.com</a> and Founder of <a href="http://www.universitytutor.com" target="_blank">UniversityTutor.com</a>
 * Author of [Breaking Free](/breaking-free)
 * Lived in Buenos Aires, Argentina for a year
