@@ -26,3 +26,6 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 
 You can create payment buttons like this at <a href="https://coinbase.com">Coinbase.com</a>:<br>
 <div class="coinbase-button" data-custom="b1" data-code="2cd5aec776f0ba981494920750be7a27"></div><script src="https://coinbase.com/assets/button.js" type="text/javascript"></script>
+
+<p>Or inline payment iFrames:</p>
+<iframe src="https://coinbase.com/inline_payments/13d57b441426041e9acfecac86f306e8" style="width: 500px; height: 160px; border: none; box-shadow: 0 1px 3px rgba(0,0,0,0.25); overflow: hidden;" scrolling="no" allowtransparency="true" frameborder="0"></iframe>
